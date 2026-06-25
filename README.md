@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/leminhquan-embedded/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0088-merge-sorted-array](https://github.com/leminhquan-embedded/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/leminhquan-embedded/leetcode/tree/main/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
