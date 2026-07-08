@@ -2,7 +2,7 @@ bool isValid(char* s) {
     int top = -1;
     int n = strlen(s);
 
-    char stack_arr[1000009];
+    char stack_arr[100009];
     int isEmpty(const int *top) {
     return *top == -1;
 }
